@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?color=ffffff&type=cylinder&text=KNO-YOUN-SIK&reversal=true&height=250&section=header&fontColor=000000
+![header](https://capsule-render.vercel.app/api?color=000000&type=cylinder&text=KNO-YOUN-SIK&reversal=true&height=250&section=header&fontColor=ffffff
 )
 
 (update 23.10.29)
