@@ -20,7 +20,6 @@
 | 💻 tool ⌨️|<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">|
 </br>
 </br>
-#4285F4
 
 💡 About me 💡 <br/>
 ### [상세 프로필](https://younsikdev.notion.site/8e9b486d4e80487683e40db8110c26c7?pvs=4)
